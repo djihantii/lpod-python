@@ -20,6 +20,9 @@ The most recent version of this package is there:
 
     https://github.com/lpod/lpod-python
 
+The version compatible with Python3 is available on:
+    https://github.com/jdum/odfdo
+
 How to get the code with git:
 
     git clone git://github.com/lpod/lpod-python.git
@@ -48,6 +51,6 @@ About the Lpod Project, see:
     http://lpod-project.net
 
 
-Architect: Jean-Marie Gouarné <jean-marie.gouarne@arsaperta.com>
+Architect: Jean-Marie Gouarn≈Ω <jean-marie.gouarne@arsaperta.com>
 
 Coordinator: Luis Belmar-Letelier <luis@itaapy.com>
